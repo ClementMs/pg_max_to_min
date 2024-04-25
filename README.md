@@ -11,19 +11,16 @@ SELECT
 
     max_to_min('test_table', 'test_column')
 
-;
-
 '''
 
 You can change the format of the result with the optional parameter format_type (TEXT), which accepts the value 'record'. 
 For instance:
+
 '''
 
 SELECT 
 
     max_to_min('test_table', 'test_column', 'record')
-    
-;
     
 '''    
     
