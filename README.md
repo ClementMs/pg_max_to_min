@@ -1,5 +1,5 @@
 # pg_max_to_min
-PostgreSQL Aggregate Function to Return the Max and Min values of an Integer Column. 
+Aggregate Function to Return the Max and Min values of an Integer Column in a PostgreSQL table. 
 
 By default, the function will return the result in the following format : 
 
