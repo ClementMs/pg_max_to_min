@@ -8,7 +8,7 @@ For instance:
 
 '''
 
-SELECT 
+    SELECT 
 
 max_to_min('test_table', 'test_column')
 
