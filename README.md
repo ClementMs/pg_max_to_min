@@ -25,7 +25,7 @@ For instance:
     
 This query will return the result formatted as following : 
 
-    (max_value, min_value). 
+    (max_value, min_value)
 
 If your integer column does not contain any value, the function will return 
 
