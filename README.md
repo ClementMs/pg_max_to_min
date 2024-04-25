@@ -7,9 +7,7 @@ To call this function, you need to provide 2 parameters: table_name (TEXT) and c
 For instance: 
 
 '''
-SELECT 
-
-    max_to_min('test_table', 'test_column')
+SELECT max_to_min('test_table', 'test_column')
 
 '''
 
